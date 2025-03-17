@@ -12,6 +12,6 @@ REM </properties>
 SET MAVEN_HOME=C:\data\apache-maven-3.9.9
 SET PATH=%MAVEN_HOME%\bin;%PATH%
 REM Pour inclure JAVA_HOME dans le PATH : SET PATH=%JAVA_HOME%\bin;%MAVEN_HOME%\bin;%PATH%
-
+REM Un remarque pour declencher un build
 REM verify lance les tests unitaires et vérifie la seuil de couverture
 mvn clean verify site
