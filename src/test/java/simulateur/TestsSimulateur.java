@@ -63,6 +63,11 @@ public class TestsSimulateur {
     }
 
 
+
+
+
+    // ceci est un commentaire commenté par des commentateurs commendité
+
     public static Stream<Arguments> donneesAbattementFoyerFiscal() {
         return Stream.of(
                 Arguments.of(4900, "CELIBATAIRE", 0, 0, false, 495), // < 495 => 495
