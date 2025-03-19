@@ -66,7 +66,7 @@ public class TestsSimulateur {
 
 
 
-    // ceci est un commentaire commenté par des commentateurs commendité
+    // ceci est un commentaire commenté par des commentateurs commendité de qualité
 
     public static Stream<Arguments> donneesAbattementFoyerFiscal() {
         return Stream.of(
